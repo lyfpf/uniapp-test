@@ -1,3 +1,3 @@
 module.exports = {
-  key: "<%= key -%>"
+  key2: "<%= key -%>"
 }
