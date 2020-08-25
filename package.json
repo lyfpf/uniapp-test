@@ -1,0 +1,24 @@
+{
+  "name": "24-uni-app",
+  "version": "1.0.1",
+  "description": "uni-app-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "uni": "node ./bin/index.js"
+  },
+  "bin": {
+    "uni": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "可乐要加冰",
+  "license": "ISC",
+  "private": false,
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "cross-spawn": "^7.0.3",
+    "download-git-repo": "^3.0.2",
+    "ora": "^4.0.4",
+    "sao": "^1.7.1"
+  }
+}
